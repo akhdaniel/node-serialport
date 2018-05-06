@@ -1,9 +1,11 @@
-# MAKE SURE ALL ADDITIONS HERE ARE MIRRORED INTO THE .npmignore AS WELL
-.mailmap
-build/
-coverage
-node_modules
-npm-debug.log
-package-lock.json
-Release/
-prebuilds/
+/nbproject/
+/.idea/*
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+node_modules/
+bin/
+obj/
+.vs/
